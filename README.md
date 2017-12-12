@@ -1,5 +1,6 @@
 # Implementation of a vortical non-reversible MCMC algorithm (in Matlab and Python).
 
+This is for demonstration purposes only.
 
 Reference:
 ```
